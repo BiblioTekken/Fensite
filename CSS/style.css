@@ -61,3 +61,8 @@ a:hover{
 .contactform{
   margin-left: 20px;
 }
+.profilepic{
+  height: 100px;
+  width: 100px;
+  margin: 0;
+}
